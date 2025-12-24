@@ -1,0 +1,5 @@
+name = "dashboard-summary"
+main = "index.ts"
+path = "/dashboard-summary"
+method = "GET"
+verify_jwt = true
